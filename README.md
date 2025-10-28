@@ -1,3 +1,5 @@
+HAND WRITTEN DIGIT RECOGNITION
+
 ✍️ Real-Time Air Drawing Digit Recognition (MNIST)
 
 This project implements a real-time system for recognizing handwritten digits drawn in the air using an index finger. It leverages **Google's MediaPipe** for hand tracking, **OpenCV** for image processing, and three different machine learning models (**KNN, SVM, and ANN**) trained on the **MNIST** dataset to perform live classification.
